@@ -24,7 +24,6 @@ body {
     .redes-sociais ul li {
     margin-left: 25px;
     display: inline-block;
-    float: left;
     list-style: none;
     }
     .redes-sociais {
@@ -270,7 +269,6 @@ body {
         height: 15px;
         display: inline-block;
         background-image: url('../img/clock.png');
-        float: left;
         background-repeat: no-repeat;
         padding-left: 5px;
     }
@@ -280,7 +278,6 @@ body {
         width:  17px;
         height: 24px;
         display: inline-block;
-        float: left;
         background-repeat: no-repeat;
         padding-left: 5px;
     }
